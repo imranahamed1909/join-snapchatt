@@ -27,7 +27,7 @@ export default function Home() {
             <div class="p-5 w-[400px]">
               <div class="mx-auto flex items-center justify-center mt-5">
                 <img
-                  class="h-16 w-16 text-center"
+                  class="h-16 w-20 text-center"
                   src="/images/snapchat-icon.png"
                   alt=""
                 />

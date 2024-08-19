@@ -37,7 +37,7 @@ export default function Home() {
               </h2>
               <p class="text-xl pt-5 font-semibold text-[#707b8e]">
                 Login With Megapersonals and enjoy with{" "}
-                <b class="text-yellow-500">Snapchat video chat</b> your dating
+                <b class="text-yellow-300">Snapchat video chat</b> your dating
                 partner.
               </p>
 
